@@ -42,4 +42,6 @@ public class ColliderFit : MonoBehaviour
 			bc2d.size = Vector3.zero;
 		}
 	}
+	
+	Console.WriteLine("Hello World");
 }
